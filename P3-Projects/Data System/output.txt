@@ -1,0 +1,11 @@
+Success: Student "John Doe, 20, Computer Science" added.
+Success: Student "Jane Smith, 22, Mathematics" added.
+Success: Course "Introduction to Programming, COMP101, John Smith" added.
+Success: Course "Advanced Mathematics, MATH201, Jane Doe" added.
+Query Result: John Doe, 20, Computer Science.
+Query Result: Introduction to Programming, COMP101, John Smith.
+Success: Student "John Doe, 20, Computer Science" updated to "John Doe, 21, Computer Science".
+Success: Student "Jane Smith, 22, Mathematics" deleted.
+Success: Course "Advanced Mathematics, MATH201, Jane Doe" deleted.
+Query Result: No Student found matching criteria.
+Query Result: No Course found matching criteria.

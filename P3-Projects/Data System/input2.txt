@@ -1,0 +1,11 @@
+INSERT STUDENT John Doe, 20, Computer Science
+INSERT STUDENT Jane Smith, 22, Mathematics
+INSERT COURSE Introduction to Programming, COMP101, John Smith
+INSERT COURSE Advanced Mathematics, MATH201, Jane Doe
+QUERY STUDENT name=John Doe
+QUERY COURSE code=COMP101
+UPDATE STUDENT John Doe, 21, Computer Science
+DELETE STUDENT Jane Smith
+DELETE COURSE MATH201
+QUERY STUDENT name=Jane Smith
+QUERY COURSE code=MATH201
