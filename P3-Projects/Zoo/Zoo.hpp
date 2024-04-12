@@ -27,6 +27,7 @@ public:
     ZooKeeper* CreateZookeeper(string _name);
     Result assignZooKeeper(ZooKeeper *_ZooKeeper,Enclosure *Enclosure);
     ~Zoo();
+    ///sadasdfaegjhapkfjg
 };
 
 
